@@ -1,2 +1,2 @@
 # devops-prj-1
-This is a sample for devops
+This is a sample Project for devops
